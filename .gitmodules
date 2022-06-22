@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "strvalidator"]
+	path = strvalidator
+	url = https://github.com/oskarhansson/strvalidator
+	shallow = true
+	registered = true
